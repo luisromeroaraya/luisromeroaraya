@@ -1,4 +1,5 @@
-# Hi there, I'm Marcelo 👋 
+# Hi there 👋
+I'm a Chilean 🇨🇱 living in Belgium 🇧🇪.
 
 ## About
 - 🌱 I’m currently a [Becode.org](http://www.becode.org) Junior Web Developper student.
