@@ -6,7 +6,7 @@ I'm a Chilean 🇨🇱 living in Belgium 🇧🇪.
 
 ## Contact
 - 💬 Don't hesitate to contact me if you need any information about my BeCode experience or just chat about anything.
-- 📫 Find out more about me on [LinkedIn](https://www.linkedin.com/in/luis-marcelo-romero-cors-araya-501975203)
+- 📫 Find out more about me on [LinkedIn](https://www.linkedin.com/in/luis-marcelo-romero-cors-araya)
 
 ## More
 - 🗣 You can contact me in English, Spanish or French.
