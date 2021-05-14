@@ -13,7 +13,7 @@ I'm a Chilean living in Belgium.
 ## More
 - 🗣 You can contact me in English, Spanish or French.
 - 🤓 Currently trying to learn Dutch.
-- 🔉 I'm a [professional sound engineer](http://www.bxlstudiomobile.com) who loves dark music, bizarre films and beer 🍺 !
+- 🔉 I'm a [sound engineer](http://www.bxlstudiomobile.com) who loves dark music, bizarre films and beer 🍺 !
 - 🙏🏼 Thanks for passing by, have a lovely day!
 
 <!--
