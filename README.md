@@ -1,16 +1,16 @@
 [![Header](https://live.staticflickr.com/5468/8967149908_54a3f6d029_b.jpg "Header")](https://github.com/luisromeroaraya/luisromeroaraya)
 
-# Hi there 👋
-I'm a Chilean living in Belgium.
+# 👋 Hi there 
+- ✈️ I'm a Chilean living in Belgium.
 
-## About
+## ☀️ About
 - 🌱 I’m currently a [Becode.org](http://www.becode.org) Junior Web Developper student.
 
-## Contact
+## 📧 Contact
 - 💬 Don't hesitate to contact me if you need any information about my BeCode experience or just chat about anything.
-- 📫 Find out more about me on [LinkedIn](https://www.linkedin.com/in/luis-marcelo-romero-cors-araya)
+- 👉 Find out more about me on [LinkedIn](https://www.linkedin.com/in/luis-marcelo-romero-cors-araya)
 
-## More
+## 🔎 More
 - 🗣 You can contact me in English, Spanish or French.
 - 🤓 Currently trying to learn Dutch.
 - 🔉 I'm a [sound engineer](http://www.bxlstudiomobile.com) who loves dark music, bizarre films and beer 🍺 !
