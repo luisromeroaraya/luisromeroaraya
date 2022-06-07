@@ -4,7 +4,7 @@
 - ✈️ I'm a Chilean living in Belgium.
 
 ## ☀️ About
-- 🌱 Just finished the Junior Web Developper bootcamp at [Becode.org](https://www.becode.org)
+- 🌱 Just finished the Junior Web Developer bootcamp at [Becode.org](https://www.becode.org)
 - :coffee: Currently following a Certified Java Development course at [digitalcity.brussels](https://digitalcity.brussels)
 
 ## 📧 Contact
