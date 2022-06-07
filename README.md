@@ -13,7 +13,7 @@
 
 ## 🔎 More
 - 🗣 You can contact me in English, Spanish or French.
-- 🤓 Currently trying to learn Dutch and Italian.
+- 🤓 Currently learning Dutch and Italian.
 - 🔉 I'm a [sound engineer](http://www.bxlstudiomobile.com) who loves dark music, bizarre films and beer 🍺 !
 - 🙏🏼 Thanks for passing by, have a lovely day!
 
