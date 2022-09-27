@@ -1,7 +1,6 @@
+[![Header](https://live.staticflickr.com/5468/8967149908_54a3f6d029_b.jpg "Header")](https://github.com/luisromeroaraya/luisromeroaraya)
 ![](https://visitor-badge.laobi.icu/badge?page_id=luisromeroaraya.luisromeroaraya)
 [![Github](https://img.shields.io/github/followers/luisromeroaraya?label=Follow&style=social)](https://github.com/luisromeroaraya)
-
-[![Header](https://live.staticflickr.com/5468/8967149908_54a3f6d029_b.jpg "Header")](https://github.com/luisromeroaraya/luisromeroaraya)
 
 # 👋 Hi there 
 - ✈️ I'm a Chilean living in Belgium.
