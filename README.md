@@ -6,8 +6,10 @@
 - ✈️ I'm a Chilean living in Belgium.
 
 ## ☀️ About
-- 🌱 Finished the Junior Web Developer bootcamp at [Becode.org](https://www.becode.org)
+- 🌱 Finished a Junior Web Developer bootcamp at [Becode.org](https://www.becode.org)
+- :soccer: Helped building an MVP (Minimum Viable Product) using the no-code platform [Bubble.io](https://www.bubble.io) at [Clunnnity](https://www.clunnity.com)
 - :coffee: Finished an intensive Java Development course at [digitalcity.brussels](https://digitalcity.brussels)
+- :office: Built some APIs during an internship at [Etnic](https://www.etnic.be)
 
 ## 📧 Contact
 - 💬 Don't hesitate to contact me if you need any information about my BeCode experience or just chat about anything.
