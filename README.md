@@ -10,9 +10,10 @@
 - :soccer: Helped building an MVP (Minimum Viable Product) using the no-code platform [Bubble.io](https://www.bubble.io) at [Clunnnity](https://www.clunnity.com)
 - :coffee: Finished an intensive Java Development course at [digitalcity.brussels](https://digitalcity.brussels)
 - :office: Built some APIs during an internship at [Etnic](https://www.etnic.be)
+- :hospital: Currently working for the [Brussels Health Network](https://www.brusselshealthnetwork.be) on the regional project to improve interoperability using the HL7 FHIR standard.
 
 ## 📧 Contact
-- 💬 Don't hesitate to contact me if you need any information about my BeCode experience or just chat about anything.
+- 💬 Don't hesitate to contact me if you need any information about my BeCode or digital.city experiences or just chat about anything.
 - 👉 Find out more about me on [LinkedIn](https://www.linkedin.com/in/luis-marcelo-romero-cors-araya)
 
 ## 🔎 More
